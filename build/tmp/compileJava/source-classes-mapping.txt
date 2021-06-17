@@ -1,0 +1,14 @@
+Visitor/EditoresDeTexto/NotePad.java
+ Visitor.EditoresDeTexto.NotePad
+Visitor/EditoresDeTexto/Sublime.java
+ Visitor.EditoresDeTexto.Sublime
+Visitor/EditoresDeTexto/IEditor.java
+ Visitor.EditoresDeTexto.IEditor
+Visitor/EditoresDeTexto/Word.java
+ Visitor.EditoresDeTexto.Word
+Visitor/EditoresDeTexto/IPlugin.java
+ Visitor.EditoresDeTexto.IPlugin
+Visitor/EditoresDeTexto/Plugin.java
+ Visitor.EditoresDeTexto.Plugin
+Visitor/EditoresDeTexto/Client.java
+ Visitor.EditoresDeTexto.Client
