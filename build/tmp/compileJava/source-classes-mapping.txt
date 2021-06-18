@@ -8,7 +8,23 @@ Visitor/EditoresDeTexto/Word.java
  Visitor.EditoresDeTexto.Word
 Visitor/EditoresDeTexto/IPlugin.java
  Visitor.EditoresDeTexto.IPlugin
+Visitor/LibreCambista/Brasil.java
+ Visitor.LibreCambista.Brasil
+Visitor/LibreCambista/Italia.java
+ Visitor.LibreCambista.Italia
+Visitor/LibreCambista/IPais.java
+ Visitor.LibreCambista.IPais
 Visitor/EditoresDeTexto/Plugin.java
  Visitor.EditoresDeTexto.Plugin
+Visitor/LibreCambista/Argentina.java
+ Visitor.LibreCambista.Argentina
+Visitor/LibreCambista/Bolivia.java
+ Visitor.LibreCambista.Bolivia
 Visitor/EditoresDeTexto/Client.java
  Visitor.EditoresDeTexto.Client
+Visitor/LibreCambista/IViajero.java
+ Visitor.LibreCambista.IViajero
+Visitor/LibreCambista/Client.java
+ Visitor.LibreCambista.Client
+Visitor/LibreCambista/Viajero.java
+ Visitor.LibreCambista.Viajero
