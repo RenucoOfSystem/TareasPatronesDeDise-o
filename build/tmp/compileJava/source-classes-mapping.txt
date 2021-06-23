@@ -28,3 +28,45 @@ Visitor/LibreCambista/Client.java
  Visitor.LibreCambista.Client
 Visitor/LibreCambista/Viajero.java
  Visitor.LibreCambista.Viajero
+Adapter/Electronicos/IEmpresaA.java
+ Adapter.Electronicos.IEmpresaA
+Adapter/Electronicos/Client.java
+ Adapter.Electronicos.Client
+Adapter/Electronicos/Tablet.java
+ Adapter.Electronicos.Tablet
+Adapter/Electronicos/Refrigerador.java
+ Adapter.Electronicos.Refrigerador
+Adapter/Electronicos/Televisor.java
+ Adapter.Electronicos.Televisor
+Adapter/Electronicos/Lavadora.java
+ Adapter.Electronicos.Lavadora
+Adapter/Electronicos/TelevisorAdaptado.java
+ Adapter.Electronicos.TelevisorAdaptado
+Adapter/Electronicos/Celular.java
+ Adapter.Electronicos.Celular
+Adapter/Electronicos/LavadoraAdaptada.java
+ Adapter.Electronicos.LavadoraAdaptada
+Adapter/Electronicos/RefrigeradorAdaptado.java
+ Adapter.Electronicos.RefrigeradorAdaptado
+Adapter/Electronicos/IEmpresaB.java
+ Adapter.Electronicos.IEmpresaB
+Adapter/Electronicos/Computadora.java
+ Adapter.Electronicos.Computadora
+Bridge/EmpresasDeEnvio/EnvioPorAire.java
+ Bridge.EmpresasDeEnvio.EnvioPorAire
+Bridge/EmpresasDeEnvio/EnvioPorTierra.java
+ Bridge.EmpresasDeEnvio.EnvioPorTierra
+Bridge/EmpresasDeEnvio/EnvioPorMar.java
+ Bridge.EmpresasDeEnvio.EnvioPorMar
+Bridge/EmpresasDeEnvio/IEmpresa.java
+ Bridge.EmpresasDeEnvio.IEmpresa
+Bridge/EmpresasDeEnvio/MetodoDeEnvio.java
+ Bridge.EmpresasDeEnvio.MetodoDeEnvio
+Bridge/EmpresasDeEnvio/EmpresaSRL.java
+ Bridge.EmpresasDeEnvio.EmpresaSRL
+Bridge/EmpresasDeEnvio/Paquete.java
+ Bridge.EmpresasDeEnvio.Paquete
+Bridge/EmpresasDeEnvio/EmpresaSA.java
+ Bridge.EmpresasDeEnvio.EmpresaSA
+Bridge/EmpresasDeEnvio/Client.java
+ Bridge.EmpresasDeEnvio.Client
