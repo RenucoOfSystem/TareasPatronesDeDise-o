@@ -70,3 +70,11 @@ Bridge/EmpresasDeEnvio/EmpresaSA.java
  Bridge.EmpresasDeEnvio.EmpresaSA
 Bridge/EmpresasDeEnvio/Client.java
  Bridge.EmpresasDeEnvio.Client
+Proxy/TarjetaDebito/Cuenta.java
+ Proxy.TarjetaDebito.Cuenta
+Proxy/TarjetaDebito/ICuenta.java
+ Proxy.TarjetaDebito.ICuenta
+Proxy/TarjetaDebito/TarjetaDebito.java
+ Proxy.TarjetaDebito.TarjetaDebito
+Proxy/TarjetaDebito/Client.java
+ Proxy.TarjetaDebito.Client
