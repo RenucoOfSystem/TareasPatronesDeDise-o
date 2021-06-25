@@ -78,3 +78,27 @@ Proxy/TarjetaDebito/TarjetaDebito.java
  Proxy.TarjetaDebito.TarjetaDebito
 Proxy/TarjetaDebito/Client.java
  Proxy.TarjetaDebito.Client
+Composite/Computadoras/Precio.java
+ Composite.Computadoras.Precio
+Composite/Computadoras/Client.java
+ Composite.Computadoras.Client
+Composite/Computadoras/Computadora.java
+ Composite.Computadoras.Computadora
+Composite/Computadoras/ArtefactoElectronico.java
+ Composite.Computadoras.ArtefactoElectronico
+Composite/Computadoras/Composite.java
+ Composite.Computadoras.Composite
+Decorator/CuentasBanco/Funcionalidad.java
+ Decorator.CuentasBanco.Funcionalidad
+Decorator/CuentasBanco/BancaPorInternet.java
+ Decorator.CuentasBanco.BancaPorInternet
+Decorator/CuentasBanco/ICuenta.java
+ Decorator.CuentasBanco.ICuenta
+Decorator/CuentasBanco/Seguro.java
+ Decorator.CuentasBanco.Seguro
+Decorator/CuentasBanco/Cuenta1.java
+ Decorator.CuentasBanco.Cuenta1
+Decorator/CuentasBanco/Client.java
+ Decorator.CuentasBanco.Client
+Decorator/CuentasBanco/Sorteo.java
+ Decorator.CuentasBanco.Sorteo
