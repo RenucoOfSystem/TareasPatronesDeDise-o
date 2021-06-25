@@ -7,8 +7,8 @@ public class Composite extends ArtefactoElectronico{
 
     private List<ArtefactoElectronico> artefactoElectronicoList = new ArrayList<>();
 
-    public Composite(String marca, int precio, int serie) {
-        super(marca, precio, serie);
+    public Composite(String tipo, int precio, int serie) {
+        super(tipo, precio, serie);
     }
 
     @Override

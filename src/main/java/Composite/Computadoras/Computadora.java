@@ -3,8 +3,8 @@ package Composite.Computadoras;
 public class Computadora extends ArtefactoElectronico{
 
 
-    public Computadora(String marca, int precio, int serie) {
-        super(marca, precio, serie);
+    public Computadora(String tipo, int precio, int serie) {
+        super(tipo, precio, serie);
     }
 
     @Override

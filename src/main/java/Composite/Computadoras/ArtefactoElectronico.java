@@ -1,22 +1,22 @@
 package Composite.Computadoras;
 
 public abstract class ArtefactoElectronico {
-    private String Marca;
+    private String tipo;
     private int precio;
     private int serie;
 
-    public ArtefactoElectronico(String marca, int precio, int serie) {
-        Marca = marca;
+    public ArtefactoElectronico(String tipo, int precio, int serie) {
+        this.tipo = tipo;
         this.precio = precio;
         this.serie = serie;
     }
 
-    public String getMarca() {
-        return Marca;
+    public String getTipo() {
+        return tipo;
     }
 
-    public void setMarca(String marca) {
-        Marca = marca;
+    public void setTipo(String tipo) {
+        this.tipo = tipo;
     }
 
     public int getPrecio() {
@@ -36,7 +36,7 @@ public abstract class ArtefactoElectronico {
     }
 
     public void showInfo(){
-        System.out.println("\n marca: "+getMarca());
+        System.out.println("\n Tipo: "+ getTipo());
         System.out.println("serie: "+getSerie());
         System.out.println("precio: "+getPrecio()+"\n");
     }
