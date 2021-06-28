@@ -102,3 +102,17 @@ Decorator/CuentasBanco/Client.java
  Decorator.CuentasBanco.Client
 Decorator/CuentasBanco/Sorteo.java
  Decorator.CuentasBanco.Sorteo
+PracticaTercerParcial/Visitor/IApp.java
+ PracticaTercerParcial.Visitor.IApp
+PracticaTercerParcial/Visitor/Televisor.java
+ PracticaTercerParcial.Visitor.Televisor
+PracticaTercerParcial/Visitor/Computadora.java
+ PracticaTercerParcial.Visitor.Computadora
+PracticaTercerParcial/Visitor/Celular.java
+ PracticaTercerParcial.Visitor.Celular
+PracticaTercerParcial/Visitor/Client.java
+ PracticaTercerParcial.Visitor.Client
+PracticaTercerParcial/Visitor/App.java
+ PracticaTercerParcial.Visitor.App
+PracticaTercerParcial/Visitor/IArtefactoElectronico.java
+ PracticaTercerParcial.Visitor.IArtefactoElectronico
