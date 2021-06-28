@@ -1,178 +1,200 @@
-Visitor/EditoresDeTexto/NotePad.java
- Visitor.EditoresDeTexto.NotePad
-Visitor/EditoresDeTexto/Sublime.java
- Visitor.EditoresDeTexto.Sublime
-Visitor/EditoresDeTexto/IEditor.java
- Visitor.EditoresDeTexto.IEditor
-Visitor/EditoresDeTexto/Word.java
- Visitor.EditoresDeTexto.Word
-Visitor/EditoresDeTexto/IPlugin.java
- Visitor.EditoresDeTexto.IPlugin
-Visitor/LibreCambista/Brasil.java
- Visitor.LibreCambista.Brasil
-Visitor/LibreCambista/Italia.java
- Visitor.LibreCambista.Italia
-Visitor/LibreCambista/IPais.java
- Visitor.LibreCambista.IPais
-Visitor/EditoresDeTexto/Plugin.java
- Visitor.EditoresDeTexto.Plugin
-Visitor/LibreCambista/Argentina.java
- Visitor.LibreCambista.Argentina
-Visitor/LibreCambista/Bolivia.java
- Visitor.LibreCambista.Bolivia
-Visitor/EditoresDeTexto/Client.java
- Visitor.EditoresDeTexto.Client
-Visitor/LibreCambista/IViajero.java
- Visitor.LibreCambista.IViajero
-Visitor/LibreCambista/Client.java
- Visitor.LibreCambista.Client
-Visitor/LibreCambista/Viajero.java
- Visitor.LibreCambista.Viajero
-Adapter/Electronicos/IEmpresaA.java
- Adapter.Electronicos.IEmpresaA
-Adapter/Electronicos/Client.java
- Adapter.Electronicos.Client
+PracticaTercerParcial/Bridge/PagoTigoMoney.java
+ PracticaTercerParcial.Bridge.PagoTigoMoney
+PracticaTercerParcial/Visitor/Televisor.java
+ PracticaTercerParcial.Visitor.Televisor
+PracticaTercerParcial/Extra/Tecnico.java
+ PracticaTercerParcial.Extra.Tecnico
+PracticaTercerParcial/Extra/Client.java
+ PracticaTercerParcial.Extra.Client
+PracticaTercerParcial/Extra/Pc.java
+ PracticaTercerParcial.Extra.Pc
+PracticaTercerParcial/Extra/Tablet.java
+ PracticaTercerParcial.Extra.Tablet
+Proxy/TarjetaDebito/ICuenta.java
+ Proxy.TarjetaDebito.ICuenta
+PracticaTercerParcial/Adapter/IOsAdaptado.java
+ PracticaTercerParcial.Adapter.IOsAdaptado
+PracticaTercerParcial/Bridge/PagoEnEfectivo.java
+ PracticaTercerParcial.Bridge.PagoEnEfectivo
+PracticaTercerParcial/Proxy/Servidor.java
+ PracticaTercerParcial.Proxy.Servidor
+PracticaTercerParcial/Extra/IServicioTecnico.java
+ PracticaTercerParcial.Extra.IServicioTecnico
 Adapter/Electronicos/Tablet.java
  Adapter.Electronicos.Tablet
 Adapter/Electronicos/Refrigerador.java
  Adapter.Electronicos.Refrigerador
-Adapter/Electronicos/Televisor.java
- Adapter.Electronicos.Televisor
-Adapter/Electronicos/Lavadora.java
- Adapter.Electronicos.Lavadora
-Adapter/Electronicos/TelevisorAdaptado.java
- Adapter.Electronicos.TelevisorAdaptado
-Adapter/Electronicos/Celular.java
- Adapter.Electronicos.Celular
-Adapter/Electronicos/LavadoraAdaptada.java
- Adapter.Electronicos.LavadoraAdaptada
-Adapter/Electronicos/RefrigeradorAdaptado.java
- Adapter.Electronicos.RefrigeradorAdaptado
-Adapter/Electronicos/IEmpresaB.java
- Adapter.Electronicos.IEmpresaB
-Adapter/Electronicos/Computadora.java
- Adapter.Electronicos.Computadora
-Bridge/EmpresasDeEnvio/EnvioPorAire.java
- Bridge.EmpresasDeEnvio.EnvioPorAire
-Bridge/EmpresasDeEnvio/EnvioPorTierra.java
- Bridge.EmpresasDeEnvio.EnvioPorTierra
-Bridge/EmpresasDeEnvio/EnvioPorMar.java
- Bridge.EmpresasDeEnvio.EnvioPorMar
-Bridge/EmpresasDeEnvio/IEmpresa.java
- Bridge.EmpresasDeEnvio.IEmpresa
-Bridge/EmpresasDeEnvio/MetodoDeEnvio.java
- Bridge.EmpresasDeEnvio.MetodoDeEnvio
-Bridge/EmpresasDeEnvio/EmpresaSRL.java
- Bridge.EmpresasDeEnvio.EmpresaSRL
-Bridge/EmpresasDeEnvio/Paquete.java
- Bridge.EmpresasDeEnvio.Paquete
-Bridge/EmpresasDeEnvio/EmpresaSA.java
- Bridge.EmpresasDeEnvio.EmpresaSA
-Bridge/EmpresasDeEnvio/Client.java
- Bridge.EmpresasDeEnvio.Client
-Proxy/TarjetaDebito/Cuenta.java
- Proxy.TarjetaDebito.Cuenta
-Proxy/TarjetaDebito/ICuenta.java
- Proxy.TarjetaDebito.ICuenta
-Proxy/TarjetaDebito/TarjetaDebito.java
- Proxy.TarjetaDebito.TarjetaDebito
-Proxy/TarjetaDebito/Client.java
- Proxy.TarjetaDebito.Client
-Composite/Computadoras/Precio.java
- Composite.Computadoras.Precio
-Composite/Computadoras/Client.java
- Composite.Computadoras.Client
-Composite/Computadoras/Computadora.java
- Composite.Computadoras.Computadora
-Composite/Computadoras/ArtefactoElectronico.java
- Composite.Computadoras.ArtefactoElectronico
-Composite/Computadoras/Composite.java
- Composite.Computadoras.Composite
-Decorator/CuentasBanco/Funcionalidad.java
- Decorator.CuentasBanco.Funcionalidad
-Decorator/CuentasBanco/BancaPorInternet.java
- Decorator.CuentasBanco.BancaPorInternet
-Decorator/CuentasBanco/ICuenta.java
- Decorator.CuentasBanco.ICuenta
-Decorator/CuentasBanco/Seguro.java
- Decorator.CuentasBanco.Seguro
-Decorator/CuentasBanco/Cuenta1.java
- Decorator.CuentasBanco.Cuenta1
 Decorator/CuentasBanco/Client.java
  Decorator.CuentasBanco.Client
-Decorator/CuentasBanco/Sorteo.java
- Decorator.CuentasBanco.Sorteo
-PracticaTercerParcial/Visitor/IApp.java
- PracticaTercerParcial.Visitor.IApp
-PracticaTercerParcial/Visitor/Televisor.java
- PracticaTercerParcial.Visitor.Televisor
-PracticaTercerParcial/Visitor/Computadora.java
- PracticaTercerParcial.Visitor.Computadora
-PracticaTercerParcial/Visitor/Celular.java
- PracticaTercerParcial.Visitor.Celular
-PracticaTercerParcial/Visitor/Client.java
- PracticaTercerParcial.Visitor.Client
 PracticaTercerParcial/Visitor/App.java
  PracticaTercerParcial.Visitor.App
-PracticaTercerParcial/Visitor/IArtefactoElectronico.java
- PracticaTercerParcial.Visitor.IArtefactoElectronico
-PracticaTercerParcial/Proxy/ICluster.java
- PracticaTercerParcial.Proxy.ICluster
+Composite/Computadoras/Composite.java
+ Composite.Computadoras.Composite
+Visitor/EditoresDeTexto/Plugin.java
+ Visitor.EditoresDeTexto.Plugin
+Visitor/LibreCambista/Argentina.java
+ Visitor.LibreCambista.Argentina
+PracticaTercerParcial/Bridge/Instalacion.java
+ PracticaTercerParcial.Bridge.Instalacion
+Decorator/CuentasBanco/Seguro.java
+ Decorator.CuentasBanco.Seguro
+Adapter/Electronicos/Computadora.java
+ Adapter.Electronicos.Computadora
+PracticaTercerParcial/Decorator/Habilidad.java
+ PracticaTercerParcial.Decorator.Habilidad
+PracticaTercerParcial/Extra/IDispositivo.java
+ PracticaTercerParcial.Extra.IDispositivo
 PracticaTercerParcial/Proxy/User.java
  PracticaTercerParcial.Proxy.User
-PracticaTercerParcial/Proxy/Servidor.java
- PracticaTercerParcial.Proxy.Servidor
-PracticaTercerParcial/Proxy/Proxy.java
- PracticaTercerParcial.Proxy.Proxy
-PracticaTercerParcial/Proxy/Client.java
- PracticaTercerParcial.Proxy.Client
+Decorator/CuentasBanco/ICuenta.java
+ Decorator.CuentasBanco.ICuenta
+Adapter/Electronicos/Client.java
+ Adapter.Electronicos.Client
+Bridge/EmpresasDeEnvio/EnvioPorAire.java
+ Bridge.EmpresasDeEnvio.EnvioPorAire
+Visitor/LibreCambista/Client.java
+ Visitor.LibreCambista.Client
+PracticaTercerParcial/Bridge/InstalacionAlcantarillado.java
+ PracticaTercerParcial.Bridge.InstalacionAlcantarillado
+Bridge/EmpresasDeEnvio/EmpresaSA.java
+ Bridge.EmpresasDeEnvio.EmpresaSA
+PracticaTercerParcial/Adapter/AplicacionesWeb.java
+ PracticaTercerParcial.Adapter.AplicacionesWeb
+Visitor/LibreCambista/IViajero.java
+ Visitor.LibreCambista.IViajero
+Visitor/LibreCambista/Brasil.java
+ Visitor.LibreCambista.Brasil
+Decorator/CuentasBanco/Funcionalidad.java
+ Decorator.CuentasBanco.Funcionalidad
+Visitor/EditoresDeTexto/IPlugin.java
+ Visitor.EditoresDeTexto.IPlugin
+Composite/Computadoras/Computadora.java
+ Composite.Computadoras.Computadora
+PracticaTercerParcial/Adapter/AndroidAdaptado.java
+ PracticaTercerParcial.Adapter.AndroidAdaptado
+Adapter/Electronicos/TelevisorAdaptado.java
+ Adapter.Electronicos.TelevisorAdaptado
+Bridge/EmpresasDeEnvio/MetodoDeEnvio.java
+ Bridge.EmpresasDeEnvio.MetodoDeEnvio
+Composite/Computadoras/ArtefactoElectronico.java
+ Composite.Computadoras.ArtefactoElectronico
+Decorator/CuentasBanco/Sorteo.java
+ Decorator.CuentasBanco.Sorteo
+PracticaTercerParcial/Bridge/InstalacionAgua.java
+ PracticaTercerParcial.Bridge.InstalacionAgua
+PracticaTercerParcial/Bridge/PagoTransferenciaBancaria.java
+ PracticaTercerParcial.Bridge.PagoTransferenciaBancaria
+PracticaTercerParcial/Composite/Client.java
+ PracticaTercerParcial.Composite.Client
+Adapter/Electronicos/Televisor.java
+ Adapter.Electronicos.Televisor
+Bridge/EmpresasDeEnvio/EnvioPorTierra.java
+ Bridge.EmpresasDeEnvio.EnvioPorTierra
+PracticaTercerParcial/Adapter/Client.java
+ PracticaTercerParcial.Adapter.Client
+Proxy/TarjetaDebito/TarjetaDebito.java
+ Proxy.TarjetaDebito.TarjetaDebito
+PracticaTercerParcial/Adapter/IOs.java
+ PracticaTercerParcial.Adapter.IOs
+Decorator/CuentasBanco/BancaPorInternet.java
+ Decorator.CuentasBanco.BancaPorInternet
+Visitor/LibreCambista/IPais.java
+ Visitor.LibreCambista.IPais
+PracticaTercerParcial/Adapter/Android.java
+ PracticaTercerParcial.Adapter.Android
+PracticaTercerParcial/Visitor/Celular.java
+ PracticaTercerParcial.Visitor.Celular
+Adapter/Electronicos/Lavadora.java
+ Adapter.Electronicos.Lavadora
+PracticaTercerParcial/Visitor/Client.java
+ PracticaTercerParcial.Visitor.Client
+PracticaTercerParcial/Bridge/PagoAppEmpresa.java
+ PracticaTercerParcial.Bridge.PagoAppEmpresa
+Adapter/Electronicos/IEmpresaA.java
+ Adapter.Electronicos.IEmpresaA
+Composite/Computadoras/Client.java
+ Composite.Computadoras.Client
+PracticaTercerParcial/Visitor/IApp.java
+ PracticaTercerParcial.Visitor.IApp
+Visitor/EditoresDeTexto/Sublime.java
+ Visitor.EditoresDeTexto.Sublime
+PracticaTercerParcial/Visitor/Computadora.java
+ PracticaTercerParcial.Visitor.Computadora
+Bridge/EmpresasDeEnvio/Client.java
+ Bridge.EmpresasDeEnvio.Client
+Adapter/Electronicos/RefrigeradorAdaptado.java
+ Adapter.Electronicos.RefrigeradorAdaptado
+Visitor/LibreCambista/Italia.java
+ Visitor.LibreCambista.Italia
+Bridge/EmpresasDeEnvio/EnvioPorMar.java
+ Bridge.EmpresasDeEnvio.EnvioPorMar
+PracticaTercerParcial/Proxy/ICluster.java
+ PracticaTercerParcial.Proxy.ICluster
+PracticaTercerParcial/Adapter/IEmpresaAplicaciones.java
+ PracticaTercerParcial.Adapter.IEmpresaAplicaciones
+Visitor/LibreCambista/Bolivia.java
+ Visitor.LibreCambista.Bolivia
+Composite/Computadoras/Precio.java
+ Composite.Computadoras.Precio
+Bridge/EmpresasDeEnvio/IEmpresa.java
+ Bridge.EmpresasDeEnvio.IEmpresa
+Visitor/LibreCambista/Viajero.java
+ Visitor.LibreCambista.Viajero
 PracticaTercerParcial/Composite/Archivo.java
  PracticaTercerParcial.Composite.Archivo
+PracticaTercerParcial/Decorator/AgregarArma.java
+ PracticaTercerParcial.Decorator.AgregarArma
+Visitor/EditoresDeTexto/Client.java
+ Visitor.EditoresDeTexto.Client
+Adapter/Electronicos/IEmpresaB.java
+ Adapter.Electronicos.IEmpresaB
+PracticaTercerParcial/Proxy/Client.java
+ PracticaTercerParcial.Proxy.Client
+Bridge/EmpresasDeEnvio/EmpresaSRL.java
+ Bridge.EmpresasDeEnvio.EmpresaSRL
+PracticaTercerParcial/Extra/Laptop.java
+ PracticaTercerParcial.Extra.Laptop
+Proxy/TarjetaDebito/Cuenta.java
+ Proxy.TarjetaDebito.Cuenta
+Visitor/EditoresDeTexto/Word.java
+ Visitor.EditoresDeTexto.Word
+PracticaTercerParcial/Decorator/IPersonaje.java
+ PracticaTercerParcial.Decorator.IPersonaje
+PracticaTercerParcial/Visitor/IArtefactoElectronico.java
+ PracticaTercerParcial.Visitor.IArtefactoElectronico
+PracticaTercerParcial/Proxy/Proxy.java
+ PracticaTercerParcial.Proxy.Proxy
+Visitor/EditoresDeTexto/NotePad.java
+ Visitor.EditoresDeTexto.NotePad
+PracticaTercerParcial/Decorator/Personaje1.java
+ PracticaTercerParcial.Decorator.Personaje1
 PracticaTercerParcial/Composite/Entidad.java
  PracticaTercerParcial.Composite.Entidad
 PracticaTercerParcial/Composite/CompositeEntidad.java
  PracticaTercerParcial.Composite.CompositeEntidad
-PracticaTercerParcial/Composite/Client.java
- PracticaTercerParcial.Composite.Client
-PracticaTercerParcial/Bridge/PagoTigoMoney.java
- PracticaTercerParcial.Bridge.PagoTigoMoney
-PracticaTercerParcial/Bridge/PagoAppEmpresa.java
- PracticaTercerParcial.Bridge.PagoAppEmpresa
-PracticaTercerParcial/Bridge/PagoTransferenciaBancaria.java
- PracticaTercerParcial.Bridge.PagoTransferenciaBancaria
-PracticaTercerParcial/Bridge/IMetodoDePago.java
- PracticaTercerParcial.Bridge.IMetodoDePago
-PracticaTercerParcial/Bridge/InstalacionAlcantarillado.java
- PracticaTercerParcial.Bridge.InstalacionAlcantarillado
-PracticaTercerParcial/Bridge/Instalacion.java
- PracticaTercerParcial.Bridge.Instalacion
-PracticaTercerParcial/Bridge/InstalacionElectrica.java
- PracticaTercerParcial.Bridge.InstalacionElectrica
-PracticaTercerParcial/Bridge/InstalacionAgua.java
- PracticaTercerParcial.Bridge.InstalacionAgua
-PracticaTercerParcial/Bridge/PagoEnEfectivo.java
- PracticaTercerParcial.Bridge.PagoEnEfectivo
-PracticaTercerParcial/Bridge/Client.java
- PracticaTercerParcial.Bridge.Client
-PracticaTercerParcial/Adapter/IOs.java
- PracticaTercerParcial.Adapter.IOs
+Decorator/CuentasBanco/Cuenta1.java
+ Decorator.CuentasBanco.Cuenta1
 PracticaTercerParcial/Adapter/WindowsPhone.java
  PracticaTercerParcial.Adapter.WindowsPhone
-PracticaTercerParcial/Adapter/IEmpresaWeb.java
- PracticaTercerParcial.Adapter.IEmpresaWeb
-PracticaTercerParcial/Adapter/Android.java
- PracticaTercerParcial.Adapter.Android
-PracticaTercerParcial/Adapter/IEmpresaAplicaciones.java
- PracticaTercerParcial.Adapter.IEmpresaAplicaciones
-PracticaTercerParcial/Adapter/AplicacionesWeb.java
- PracticaTercerParcial.Adapter.AplicacionesWeb
-PracticaTercerParcial/Adapter/IOsAdaptado.java
- PracticaTercerParcial.Adapter.IOsAdaptado
-PracticaTercerParcial/Adapter/AndroidAdaptado.java
- PracticaTercerParcial.Adapter.AndroidAdaptado
-PracticaTercerParcial/Adapter/WindowsPhoneAdaptado.java
- PracticaTercerParcial.Adapter.WindowsPhoneAdaptado
+Bridge/EmpresasDeEnvio/Paquete.java
+ Bridge.EmpresasDeEnvio.Paquete
+PracticaTercerParcial/Bridge/InstalacionElectrica.java
+ PracticaTercerParcial.Bridge.InstalacionElectrica
+Visitor/EditoresDeTexto/IEditor.java
+ Visitor.EditoresDeTexto.IEditor
 PracticaTercerParcial/Adapter/AplicacionEscritorio.java
  PracticaTercerParcial.Adapter.AplicacionEscritorio
-PracticaTercerParcial/Adapter/Client.java
- PracticaTercerParcial.Adapter.Client
+PracticaTercerParcial/Adapter/IEmpresaWeb.java
+ PracticaTercerParcial.Adapter.IEmpresaWeb
+PracticaTercerParcial/Bridge/IMetodoDePago.java
+ PracticaTercerParcial.Bridge.IMetodoDePago
+PracticaTercerParcial/Bridge/Client.java
+ PracticaTercerParcial.Bridge.Client
+Adapter/Electronicos/Celular.java
+ Adapter.Electronicos.Celular
+Adapter/Electronicos/LavadoraAdaptada.java
+ Adapter.Electronicos.LavadoraAdaptada
+Proxy/TarjetaDebito/Client.java
+ Proxy.TarjetaDebito.Client
+PracticaTercerParcial/Adapter/WindowsPhoneAdaptado.java
+ PracticaTercerParcial.Adapter.WindowsPhoneAdaptado

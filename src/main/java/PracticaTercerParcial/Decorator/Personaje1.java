@@ -1,6 +1,6 @@
 package PracticaTercerParcial.Decorator;
 
-public class Personaje1 implements IPersonaje{
+public class Personaje1 {
     private String nombre;
     private int     nivel;
     private String  armas;
@@ -69,14 +69,5 @@ public class Personaje1 implements IPersonaje{
         this.regeneracionVida = regeneracionVida;
     }
 
-    @Override
-    public void habilidades() {
-        System.out.println("Nombre: "+ nombre);
-        System.out.println("Nivel" + nivel );
-        System.out.println("Armas: " + armas);
-        System.out.println("PorcenajeArmadura: " + porcentajeArmadura );
-        System.out.println("Puntos de ataque: " + puntosAtaque );
-        System.out.println("Puntos de defensa: " + puntosDefensa );
-        System.out.println("Regeneracion Vida: " + regeneracionVida );
-    }
+
 }
