@@ -116,3 +116,13 @@ PracticaTercerParcial/Visitor/App.java
  PracticaTercerParcial.Visitor.App
 PracticaTercerParcial/Visitor/IArtefactoElectronico.java
  PracticaTercerParcial.Visitor.IArtefactoElectronico
+PracticaTercerParcial/Proxy/ICluster.java
+ PracticaTercerParcial.Proxy.ICluster
+PracticaTercerParcial/Proxy/User.java
+ PracticaTercerParcial.Proxy.User
+PracticaTercerParcial/Proxy/Servidor.java
+ PracticaTercerParcial.Proxy.Servidor
+PracticaTercerParcial/Proxy/Proxy.java
+ PracticaTercerParcial.Proxy.Proxy
+PracticaTercerParcial/Proxy/Client.java
+ PracticaTercerParcial.Proxy.Client
