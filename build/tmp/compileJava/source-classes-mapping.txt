@@ -128,8 +128,6 @@ PracticaTercerParcial/Proxy/Client.java
  PracticaTercerParcial.Proxy.Client
 PracticaTercerParcial/Composite/Archivo.java
  PracticaTercerParcial.Composite.Archivo
-PracticaTercerParcial/Composite/Global.java
- PracticaTercerParcial.Composite.Global
 PracticaTercerParcial/Composite/Entidad.java
  PracticaTercerParcial.Composite.Entidad
 PracticaTercerParcial/Composite/CompositeEntidad.java

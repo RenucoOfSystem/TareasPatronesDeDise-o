@@ -1,8 +1,10 @@
 package PracticaTercerParcial.Composite;
 
 public class Archivo extends Entidad{
-    public Archivo(String tipo, String contenido, int numeroPalabras) {
-        super(tipo, contenido, numeroPalabras);
+
+    public Archivo(String tipo, String contenido) {
+        super(tipo, contenido);
+        this.setNumeroPalabras(contenido.split(" ").length);
     }
 
 
@@ -10,6 +12,7 @@ public class Archivo extends Entidad{
     @Override
     public void operation() {
         this.showInfo();
+
     }
 
     @Override

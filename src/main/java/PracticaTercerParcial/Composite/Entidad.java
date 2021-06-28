@@ -6,9 +6,9 @@ public abstract class Entidad {
     private String contenido;
 
 
-    public Entidad(String tipo,String contenido, int numeroPalabras){
+    public Entidad(String tipo,String contenido){
         this.tipo=tipo;
-        this.numeroPalabras=numeroPalabras;
+        this.numeroPalabras=0;
         this.contenido=contenido;
 
     }
