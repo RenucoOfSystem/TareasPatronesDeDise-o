@@ -134,3 +134,23 @@ PracticaTercerParcial/Composite/CompositeEntidad.java
  PracticaTercerParcial.Composite.CompositeEntidad
 PracticaTercerParcial/Composite/Client.java
  PracticaTercerParcial.Composite.Client
+PracticaTercerParcial/Bridge/PagoTigoMoney.java
+ PracticaTercerParcial.Bridge.PagoTigoMoney
+PracticaTercerParcial/Bridge/PagoAppEmpresa.java
+ PracticaTercerParcial.Bridge.PagoAppEmpresa
+PracticaTercerParcial/Bridge/PagoTransferenciaBancaria.java
+ PracticaTercerParcial.Bridge.PagoTransferenciaBancaria
+PracticaTercerParcial/Bridge/IMetodoDePago.java
+ PracticaTercerParcial.Bridge.IMetodoDePago
+PracticaTercerParcial/Bridge/InstalacionAlcantarillado.java
+ PracticaTercerParcial.Bridge.InstalacionAlcantarillado
+PracticaTercerParcial/Bridge/Instalacion.java
+ PracticaTercerParcial.Bridge.Instalacion
+PracticaTercerParcial/Bridge/InstalacionElectrica.java
+ PracticaTercerParcial.Bridge.InstalacionElectrica
+PracticaTercerParcial/Bridge/InstalacionAgua.java
+ PracticaTercerParcial.Bridge.InstalacionAgua
+PracticaTercerParcial/Bridge/PagoEnEfectivo.java
+ PracticaTercerParcial.Bridge.PagoEnEfectivo
+PracticaTercerParcial/Bridge/Client.java
+ PracticaTercerParcial.Bridge.Client
