@@ -154,3 +154,25 @@ PracticaTercerParcial/Bridge/PagoEnEfectivo.java
  PracticaTercerParcial.Bridge.PagoEnEfectivo
 PracticaTercerParcial/Bridge/Client.java
  PracticaTercerParcial.Bridge.Client
+PracticaTercerParcial/Adapter/IOs.java
+ PracticaTercerParcial.Adapter.IOs
+PracticaTercerParcial/Adapter/WindowsPhone.java
+ PracticaTercerParcial.Adapter.WindowsPhone
+PracticaTercerParcial/Adapter/IEmpresaWeb.java
+ PracticaTercerParcial.Adapter.IEmpresaWeb
+PracticaTercerParcial/Adapter/Android.java
+ PracticaTercerParcial.Adapter.Android
+PracticaTercerParcial/Adapter/IEmpresaAplicaciones.java
+ PracticaTercerParcial.Adapter.IEmpresaAplicaciones
+PracticaTercerParcial/Adapter/AplicacionesWeb.java
+ PracticaTercerParcial.Adapter.AplicacionesWeb
+PracticaTercerParcial/Adapter/IOsAdaptado.java
+ PracticaTercerParcial.Adapter.IOsAdaptado
+PracticaTercerParcial/Adapter/AndroidAdaptado.java
+ PracticaTercerParcial.Adapter.AndroidAdaptado
+PracticaTercerParcial/Adapter/WindowsPhoneAdaptado.java
+ PracticaTercerParcial.Adapter.WindowsPhoneAdaptado
+PracticaTercerParcial/Adapter/AplicacionEscritorio.java
+ PracticaTercerParcial.Adapter.AplicacionEscritorio
+PracticaTercerParcial/Adapter/Client.java
+ PracticaTercerParcial.Adapter.Client
