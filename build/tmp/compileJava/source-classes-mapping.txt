@@ -198,3 +198,25 @@ Proxy/TarjetaDebito/Client.java
  Proxy.TarjetaDebito.Client
 PracticaTercerParcial/Adapter/WindowsPhoneAdaptado.java
  PracticaTercerParcial.Adapter.WindowsPhoneAdaptado
+PracticaTercerParcial/Extra/Cuenta.java
+ PracticaTercerParcial.Extra.Cuenta
+Coupling/TravelExample/LooseCoupling/ITransport.java
+ Coupling.TravelExample.LooseCoupling.ITransport
+Coupling/TravelExample/LooseCoupling/Travel.java
+ Coupling.TravelExample.LooseCoupling.Travel
+Coupling/TravelExample/TightCoupling/Train.java
+ Coupling.TravelExample.TightCoupling.Train
+Coupling/TravelExample/LooseCoupling/ITravel.java
+ Coupling.TravelExample.LooseCoupling.ITravel
+Coupling/TravelExample/TightCoupling/Bus.java
+ Coupling.TravelExample.TightCoupling.Bus
+Coupling/TravelExample/TightCoupling/Travel.java
+ Coupling.TravelExample.TightCoupling.Travel
+Coupling/TravelExample/LooseCoupling/Train.java
+ Coupling.TravelExample.LooseCoupling.Train
+Coupling/TravelExample/TightCoupling/Person.java
+ Coupling.TravelExample.TightCoupling.Person
+Coupling/TravelExample/LooseCoupling/Bus.java
+ Coupling.TravelExample.LooseCoupling.Bus
+Coupling/TravelExample/LooseCoupling/Person.java
+ Coupling.TravelExample.LooseCoupling.Person

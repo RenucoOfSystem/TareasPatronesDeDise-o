@@ -3,7 +3,7 @@ package PracticaTercerParcial.Extra;
 public class Cuenta {
     private int pago;
     private static Cuenta instance = null;
-    private Tecnico tecnico;
+
 
     private Cuenta(){}
     public static synchronized void makeInstance(){
@@ -24,7 +24,7 @@ public class Cuenta {
             makeInstance();
         return instance;
     }
-    public synchronized void pagar(int amount){
-
+    public synchronized void pagar(int amount, Tecnico tecnico){
+        setPago(tecnico.getPrecio());
     }
 }
